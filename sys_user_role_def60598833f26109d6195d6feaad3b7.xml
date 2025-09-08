@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2025-09-08 06:26:12">
+<sys_user_role action="INSERT_OR_UPDATE">
+<assignable_by display_value=""/>
+<can_delegate>true</can_delegate>
+<description/>
+<elevated_privilege>false</elevated_privilege>
+<grantable>true</grantable>
+<includes_roles/>
+<name>Team member</name>
+<scoped_admin>false</scoped_admin>
+<suffix/>
+<sys_class_name>sys_user_role</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-09-01 06:34:29</sys_created_on>
+<sys_id>def60598833f26109d6195d6feaad3b7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Team member</sys_name>
+<sys_package display_value="Global" source="global">global</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sys_user_role_def60598833f26109d6195d6feaad3b7</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-09-01 06:34:29</sys_updated_on>
+</sys_user_role>
+</unload>
